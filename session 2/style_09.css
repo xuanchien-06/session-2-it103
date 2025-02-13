@@ -1,0 +1,15 @@
+img{
+    border-radius: 30%;
+}
+
+table{
+    width: 90%;
+    border: 1px solid;
+    border-collapse: collapse;
+    
+}
+
+th, td{
+    text-align: center;
+    border: 1px solid;
+}
